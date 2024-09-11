@@ -3,7 +3,7 @@
 There are many different types of teams that can be involved in an IT project, including: 
  
 ## Project team
--A temporary team that is assembled to address a specific issue, implement a system, or bring about a change. A project team for an IT project may include a project manager, subject matter expert, and business analyst. 
+- A temporary team that is assembled to address a specific issue, implement a system, or bring about a change. A project team for an IT project may include a project manager, subject matter expert, and business analyst. 
  
 ## Operations team
 - A permanent team that is responsible for the technology infrastructure, such as networks, data centers, and web services. 
